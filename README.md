@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm an enthusiastic undergraduate student pursuing Computer and Communications Engineering at the <br>Faculty of Engineering, Alexandria University. Graduating in June 2024!<br><br>
+🎓 I'm an enthusiastic Computer and Communications Engineer <br>Graduated from Faculty of Engineering, Alexandria University. Graduated at June 2024!<br><br>
 
 
 # 💻 Tech Stack:
